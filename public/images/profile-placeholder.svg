@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Profile placeholder">
+  <rect width="400" height="400" fill="#2b2c2f" />
+  <circle cx="200" cy="160" r="62" fill="#4c4d4f" />
+  <path d="M92 344c0-59.7 48.3-108 108-108s108 48.3 108 108z" fill="#4c4d4f" />
+  <circle cx="200" cy="160" r="62" fill="none" stroke="#42f2f7" stroke-opacity="0.35" stroke-width="2" />
+  <text x="200" y="382" font-family="Inter, system-ui, sans-serif" font-size="20" fill="#42f2f7" fill-opacity="0.7" text-anchor="middle">Profile</text>
+</svg>
